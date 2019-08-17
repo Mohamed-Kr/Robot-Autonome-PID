@@ -6,7 +6,7 @@ from math import pi
 robot = Robot()
 
 def main():
-    robot.goTo(-200, -200, 100, 10)
+    robot.goTo(-200, -200, 80, 60)
 
 
 try:
